@@ -28,5 +28,5 @@ def find_min_value(array)
        count=array[index]
      end
      }
-     x
+     count
 end
